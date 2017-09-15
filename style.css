@@ -1,0 +1,30 @@
+body {
+  background-color: skyblue;
+}
+
+
+h1{
+  color:purple;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size: 60
+}
+
+h2{
+  color:purple;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size: 35
+}
+
+p{
+  color:purple;
+  text-align: center;
+  font-size: 15
+}
+
+ul{
+  color:purple;
+  font-family: 'Cookie', cursive;
+  font-size: 35
+}
