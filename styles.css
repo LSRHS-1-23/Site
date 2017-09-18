@@ -1,5 +1,5 @@
 body {
-  background-color: skyblue;
+  background-color: violet;
 }
 
 h1{
@@ -29,7 +29,7 @@ ul{
 }
 
 a{
-  color:violet;
+  color:skyblue;
   text-align: center;
   font-size: 15
 }

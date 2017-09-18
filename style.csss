@@ -2,7 +2,6 @@ body {
   background-color: purple;
 }
 
-
 h1{
   color:skyblue;
   text-align: center;
@@ -19,6 +18,12 @@ h2{
 
 p{
   color:skyblue;
+  text-align: center;
+  font-size: 15
+}
+
+a{
+  color:violet;
   text-align: center;
   font-size: 15
 }
