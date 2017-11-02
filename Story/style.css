@@ -1,0 +1,35 @@
+body {
+  background-color: lightyellow;
+}
+
+h1{
+  color:navy;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size: 60
+}
+
+h2{
+  color:navy;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size: 35
+}
+
+p{
+  color:navy;
+  text-align: center;
+  font-size: 15
+}
+
+ul{
+  color:navy;
+  font-family: 'Cookie', cursive;
+  font-size: 35
+}
+
+a{
+  color:navy;
+  text-align: center;
+  font-size: 15
+}
