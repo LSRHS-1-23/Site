@@ -1,0 +1,57 @@
+h1{
+  color: green;
+  font-family: 'Cookie', cursive;
+}
+
+body{
+  background-color: maroon
+}
+
+a{
+  color: green;
+  font-family: 'Cookie', cursive;
+}
+
+p{
+  color: green;
+  font-family: 'Cookie', cursive;
+}
+
+#header{
+  width: 750px;
+  height: 60px;
+  border:1px solid red;
+  margin: 2px;
+}
+
+#content{
+  width: 350px;
+  height: 350px;
+  border: 1px solid green;
+  float: left;
+  margin: 2px;
+}
+
+#extra{
+  width: 250px;
+  height: 350px;
+  border: 1px solid red;
+  float: left;
+  margin: 2px;
+}
+
+#menu{
+  width: 138px;
+  height: 350px;
+  border: 1px solid green;
+  float: left;
+  margin: 2px;
+}
+
+#information{
+  width: 750px;
+  height: 200px;
+  border: 1px solid green;
+  clear: both;
+  margin: 2px;
+}
